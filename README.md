@@ -67,6 +67,8 @@ Aqui você encontrará projetos relacionados a:
 
 ☁️ Big Data e Databricks
 
+✳️ Cybersecurity
+
 ---
 
 ## 📚 Certificações
