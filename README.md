@@ -1,10 +1,10 @@
 # 👋 Olá! Eu sou a Erika Beganskas
 
-💙 Em transição para a área de **Análise de Dados**, apaixonada por transformar dados em informações que apoiam decisões de negócio.
+💙 **Engenheira de Dados**, apaixonada por transformar dados em informações que apoiam decisões de negócio.
 
-Atualmente curso **Big Data e Inteligência Analítica** e participo de um **Bootcamp de Data Analytics**, desenvolvendo projetos com SQL, Python e ferramentas de Business Intelligence.
+Atualmente curso **Big Data e Inteligência Analítica** e desenvolvo projetos na área de Dados, utilizando **SQL, Python, Pandas, ETL, Databricks e ferramentas de Business Intelligence**.
 
-Minha experiência profissional me proporcionou uma base sólida em **extração, validação, tratamento e qualidade de dados**, além da interação constante com usuários e áreas de negócio, sempre buscando processos mais eficientes e informações confiáveis.
+Minha experiência profissional me proporcionou uma base sólida em **extração, validação, tratamento e qualidade de dados**, além da interação com usuários e áreas de negócio. Tenho interesse em **Engenharia de Dados, processamento de dados, ETL e soluções baseadas em dados**, buscando desenvolver processos eficientes e informações confiáveis.
 
 ---
 
