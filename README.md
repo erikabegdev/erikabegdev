@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Erika Beganskas
 
-💙 **Engenheira de Dados**, apaixonada por transformar dados em informações que apoiam decisões de negócio.
+💙 Engenheira de Dados, focada na construção de processos para integração, transformação e disponibilização de dados.
 
 Atualmente curso **Big Data e Inteligência Analítica** e desenvolvo projetos na área de Dados, utilizando **SQL, Python, Pandas, ETL, Databricks e ferramentas de Business Intelligence**.
 
