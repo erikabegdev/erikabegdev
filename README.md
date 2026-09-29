@@ -110,4 +110,4 @@ Aqui você encontrará projetos relacionados a:
 
 ---
 
-> *"Dados contam histórias. Meu objetivo é transformá-las em decisões inteligentes."* 📊✨
+> *""Transformando dados brutos em dados confiáveis, estruturados e prontos para análise." 💙"*
