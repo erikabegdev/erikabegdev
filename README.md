@@ -4,7 +4,7 @@
 
 Atualmente curso **Big Data e Inteligência Analítica** e desenvolvo projetos na área de Dados, utilizando **SQL, Python, Pandas, ETL, Databricks e ferramentas de Business Intelligence**.
 
-Minha experiência profissional me proporcionou uma base sólida em **extração, validação, tratamento e qualidade de dados**, além da interação com usuários e áreas de negócio. Tenho interesse em **Engenharia de Dados, processamento de dados, ETL e soluções baseadas em dados**, buscando desenvolver processos eficientes e informações confiáveis.
+Minha experiência profissional me proporcionou uma base sólida em extração, validação, tratamento e qualidade de dados, além da interação com usuários e áreas de negócio. Tenho interesse em Engenharia de Dados, processamento de dados e ETL, buscando desenvolver processos eficientes para integração, transformação e disponibilização de dados confiáveis.
 
 ---
 
