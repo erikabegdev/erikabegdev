@@ -73,6 +73,8 @@ Aqui você encontrará projetos relacionados a:
 
 ## 📚 Certificações
 
+✔️ CRM Marketing 
+
 ✔️ Databricks Fundamentals
 
 ✔️ Databricks for Data Engineering
